@@ -1,1 +1,1 @@
-# <img src="images-Photoroom.png" width="100%">
+# <img src="images-Photoroom.png" width="40%">
